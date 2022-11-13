@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#bg-container{
+    height: 100vh;
+    background-color: #D3E8FF;
+}
+
+#calc-container{
+    border: 2px solid purple;
+    width: 420px;
+}
